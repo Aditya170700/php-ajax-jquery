@@ -1,0 +1,7 @@
+administrator
+email = aditya@gmail.com
+pass  = aditya
+
+member
+email = mela@gmail.com
+pass  = mela
